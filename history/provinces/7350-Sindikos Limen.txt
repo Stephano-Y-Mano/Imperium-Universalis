@@ -1,6 +1,6 @@
-add_core = SX3
-owner = SX3
-controller = SX3
+add_core = MAI
+owner = MAI
+controller = MAI
 culture = maeotian
 religion = scythian_religion
 hre = no
@@ -16,7 +16,7 @@ center_of_trade = 2
 	owner = AB6
 	controller = AB6
 	add_core = AB6
-	remove_core = SX3
+	remove_core = MAI
 }
 
 #Port of the Sindi

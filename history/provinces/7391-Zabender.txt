@@ -1,6 +1,6 @@
-add_core = SX3
-owner = SX3
-controller = SX3
+add_core = LEG
+owner = LEG
+controller = LEG
 culture = udi
 religion = skneli
 hre = no
@@ -12,7 +12,10 @@ capital = ""
 is_city = yes
 
 142.8.10 = {
+	owner = VDN
+	controller = VDN
 	add_core = VDN
+	remove_core = LEG
 }
 
 395.1.1 = {
